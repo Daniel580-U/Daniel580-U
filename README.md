@@ -29,9 +29,9 @@
 ## 📈 Estadísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=danielkaos&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Daniel580-U&show_icons=true&theme=tokyonight" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielkaos&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel580-U&layout=compact&theme=tokyonight" />
 </p>
 
 ---
