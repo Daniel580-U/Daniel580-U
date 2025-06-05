@@ -11,7 +11,7 @@
 🏃‍♂️ Practico atletismo y otros deportes (fútbol, vóley, básquet, frontón)  
 💻 Me interesa el desarrollo de software, sistemas embebidos, y aplicaciones móviles  
 🧠 Actualmente estoy aprendiendo Flutter, Arduino y visión por computadora  
-📫 Puedes contactarme en: **[tu-email@email.com]**
+📫 Puedes contactarme en: **[dbedregalp@unsa.edu.pe]**
 
 ---
 
